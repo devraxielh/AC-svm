@@ -1,52 +1,52 @@
 [
     {
-        "question": "¿Cuál es el propósito principal de un árbol de decisión en el aprendizaje automático?",
+        "question": "¿Cuál es el propósito principal de una Máquina de Vectores de Soporte (SVM) en el aprendizaje automático?",
         "options": [
             "Optimización de datos",
             "Detección de anomalías",
-            "Clasificación y predicción",
+            "Clasificación y regresión",
             "Compresión de datos"
         ],
         "correctAnswer": 2
     },
     {
-        "question": "¿Qué estructura sigue un árbol de decisión?",
+        "question": "¿Qué estructura define el límite de decisión en una SVM?",
         "options": [
             "Lineal",
             "Jerárquica",
-            "Matriz",
-            "Circular"
+            "Hiperplano",
+            "Curva de decisión"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
     },
     {
-        "question": "¿Qué representa una hoja en un árbol de decisión?",
+        "question": "¿Qué representan los vectores de soporte en una SVM?",
         "options": [
-            "Un nodo de decisión",
-            "Un camino sin salida",
-            "Una característica o atributo",
-            "Un resultado o predicción final"
+            "Los datos que no influyen en la clasificación",
+            "Los puntos más alejados del hiperplano",
+            "Los puntos más cercanos al hiperplano que definen su posición",
+            "Los datos fuera de las clases conocidas"
         ],
-        "correctAnswer": 3
+        "correctAnswer": 2
     },
     {
-        "question": "¿Qué criterio se usa comúnmente para dividir los nodos en un árbol de decisión?",
+        "question": "¿Qué técnica permite a una SVM manejar datos no lineales?",
         "options": [
-            "Algoritmo K-means",
-            "Índice de Gini o entropía",
-            "Regresión lineal",
-            "Algoritmo de Dijkstra"
+            "Regresión logística",
+            "K-Nearest Neighbors",
+            "Función de Kernel",
+            "Poda de nodos"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
     },
     {
-        "question": "¿Cuál de las siguientes NO es una ventaja de los árboles de decisión?",
+        "question": "¿Cuál de las siguientes NO es una ventaja de las SVM?",
         "options": [
-            "Fácil interpretación",
-            "Manejo de datos categóricos y numéricos",
-            "Fácil de visualizar",
-            "Alta precisión en grandes conjuntos de datos"
+            "Eficiencia en problemas de alta dimensionalidad",
+            "Capacidad para manejar datos lineales y no lineales",
+            "Facilidad de interpretación en comparación con árboles de decisión",
+            "Uso de vectores de soporte para definir el hiperplano"
         ],
-        "correctAnswer": 3
+        "correctAnswer": 2
     }
 ]

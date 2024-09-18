@@ -3,19 +3,19 @@
     "imageSrc": "./assets/yo.png",
     "imageAlt": "Rodrigo Garcia",
     "name": "Rodrigo García, PhD",
-    "sectionTitle": "Objeto Virtual de Aprendizaje: Árboles de Decisión",
-    "description": "Este Objeto Virtual de Aprendizaje (OVA) está diseñado para proporcionar una comprensión integral de los árboles de decisión, una técnica fundamental en el aprendizaje automático y la minería de datos.",
+    "sectionTitle": "Objeto Virtual de Aprendizaje: Máquinas de Vectores de Soporte (SVM)",
+    "description": "Este Objeto Virtual de Aprendizaje (OVA) está diseñado para proporcionar una comprensión integral de las Máquinas de Vectores de Soporte (SVM), una técnica poderosa en el aprendizaje automático utilizada para clasificación y regresión.",
     "structureTitle": "El OVA se estructura en cuatro secciones principales:",
     "structure": [
-        "Teoría: Explica los fundamentos matemáticos y conceptuales de los árboles de decisión.",
-        "Animación: Proporciona una visualización interactiva del proceso de toma de decisiones en un árbol.",
+        "Teoría: Explica los fundamentos matemáticos y conceptuales de las SVM, incluyendo márgenes, vectores de soporte y núcleos.",
+        "Animación: Proporciona una visualización interactiva del proceso de clasificación mediante una SVM.",
         "Evaluación: Permite a los usuarios poner a prueba sus conocimientos adquiridos.",
         "Acerca de: Ofrece información sobre el OVA y sus objetivos educativos."
     ],
     "targetAudience": "Este OVA está dirigido a estudiantes de ingeniería, ciencias de la computación y profesionales interesados en el aprendizaje automático. Su objetivo es facilitar el aprendizaje autónomo y proporcionar una experiencia educativa interactiva y enriquecedora.",
     "learningOutcomesTitle": "Resultados de aprendizaje donde apunta",
     "learningOutcomes": [
-        "Comprender los conceptos fundamentales de los árboles de decisión y su aplicación en la clasificación y predicción.",
-        "Aplicar técnicas de construcción y evaluación de árboles de decisión utilizando herramientas de minería de datos."
+        "Comprender los conceptos fundamentales de las SVM y su aplicación en problemas de clasificación y regresión.",
+        "Aplicar técnicas de construcción y ajuste de SVM utilizando herramientas de aprendizaje automático."
     ]
 }

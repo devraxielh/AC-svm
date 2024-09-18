@@ -1,9 +1,9 @@
 {
-    "imageSrc": "./assets/arbol-decision.jpg",
-    "imageAlt": "Imagen de un Árbol de Decisión",
-    "title": "¿Qué es un Árbol de Decisión?",
+    "imageSrc": "./assets/img.jpg",
+    "imageAlt": "Imagen de una Máquina de Vectores de Soporte",
+    "title": "¿Qué es una Máquina de Vectores de Soporte (SVM)?",
     "description": [
-        "Un árbol de decisión es un modelo utilizado en aprendizaje automático que se organiza en forma de árbol, donde cada nodo interno representa una 'prueba' o 'condición' en un atributo, cada rama representa el resultado de la prueba, y cada hoja representa una clase o una predicción final. Es una herramienta poderosa para la clasificación y la regresión, facilitando la toma de decisiones basada en datos de una manera interpretativa y fácil de entender.",
-        "Los árboles de decisión son ampliamente utilizados en aplicaciones como el diagnóstico médico, la evaluación del riesgo crediticio, y la clasificación de clientes en marketing, debido a su capacidad para manejar tanto datos categóricos como numéricos."
+        "Una Máquina de Vectores de Soporte (SVM) es un modelo de aprendizaje automático utilizado para tareas de clasificación y regresión. El objetivo principal de una SVM es encontrar un hiperplano en un espacio de alta dimensión que separe los datos en diferentes clases con el mayor margen posible. Los puntos de datos más cercanos al hiperplano, llamados 'vectores de soporte', son los que determinan la posición del hiperplano.",
+        "Las SVM son especialmente útiles en aplicaciones como la clasificación de imágenes, el análisis de texto y el reconocimiento de patrones, ya que son eficientes en problemas de alta dimensionalidad y pueden manejar datos lineales y no lineales mediante el uso de funciones de kernel."
     ]
 }
